@@ -1,0 +1,23 @@
+# Photos Credits:
+favicon source is unavailable it is stock photo from shutterStock😁
+
+# header logo source is https://www.pngtree.com/so/travel-logo/3
+
+# Big image in header Photo by:ReferrerUrl=https://www.pexels.com/
+HostUrl=https://images.pexels.com/photos/3788363/pexels-photo-3788363.jpeg?cs=srgb&dl=pexels-th%C3%A0nh-tr%E1%BA%A7n-3788363.jpg&fm=jpg&h=3000&w=6000&fit=crop&_gl=1*pr263c*_ga*MTIzNjE1MTQ0MS4xNjY2NTc2MzM4*_ga_8JE65Q40S6*MTY2NjU5NTAzMS4yLjEuMTY2NjU5NTA5My4wLjAuMA..
+
+Bali.jpg:
+ReferrerUrl=https://www.pexels.com/
+HostUrl=https://images.pexels.com/photos/2499699/pexels-photo-2499699.jpeg?cs=srgb&dl=pexels-stijn-dijkstra-2499699.jpg&fm=jpg&_gl=1*iudh0i*_ga*MTIzNjE1MTQ0MS4xNjY2NTc2MzM4*_ga_8JE65Q40S6*MTY2NjU3NjMzOS4xLjEuMTY2NjU3NzA4OS4wLjAuMA.
+
+dubai.jpg:
+ReferrerUrl=https://www.pexels.com/
+HostUrl=https://images.pexels.com/photos/3214995/pexels-photo-3214995.jpeg?cs=srgb&dl=pexels-alex-azabache-3214995.jpg&fm=jpg&_gl=1*y6dev1*_ga*MTIzNjE1MTQ0MS4xNjY2NTc2MzM4*_ga_8JE65Q40S6*MTY2NjU3NjMzOS4xLjEuMTY2NjU3ODcwMS4wLjAuMA..
+
+venice.jpg:
+ReferrerUrl=https://www.pexels.com/
+HostUrl=https://images.pexels.com/photos/705782/pexels-photo-705782.jpeg?cs=srgb&dl=pexels-ashley-fontana-705782.jpg&fm=jpg&_gl=1*vrmfs0*_ga*MTIzNjE1MTQ0MS4xNjY2NTc2MzM4*_ga_8JE65Q40S6*MTY2NjU3NjMzOS4xLjEuMTY2NjU3ODUzOS4wLjAuMA..
+
+istanbul.jpg
+ReferrerUrl=https://www.pexels.com/
+HostUrl=https://images.pexels.com/photos/3214994/pexels-photo-3214994.jpeg?cs=srgb&dl=pexels-alex-azabache-3214994.jpg&fm=jpg&_gl=1*1cc88c6*_ga*MTIzNjE1MTQ0MS4xNjY2NTc2MzM4*_ga_8JE65Q40S6*MTY2NjU3NjMzOS4xLjEuMTY2NjU3ODc1My4wLjAuMA..
