@@ -113,7 +113,7 @@ footer {
 
 .fourth>div {
   background-color: #3882f6;
-  width: 99%;
+  width: 86%;
   border-radius: 10px;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -151,7 +151,7 @@ footer {
   cursor: pointer;
   width: 9%;
   position: absolute;
-  left: 90%;
+  left: 76%;
   margin-top: -40px;
 }
 
@@ -170,11 +170,13 @@ footer {
 
 .fourth>div>span {
   color: #fff;
+  margin-left: 20px;
   font-weight: 700;
 }
 
 .fourth>div>p {
   color: #fff;
+  margin-left: 20px;
   font-weight: 100;
 }
 
@@ -242,6 +244,9 @@ li {
     font-weight: bold;
     text-align: center;
     display: block;
+  }
+  .fourth>div{
+    width: 95%;
   }
   .fourth>div>span{
     margin-left: 6px;
