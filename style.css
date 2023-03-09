@@ -53,6 +53,7 @@ main{
     overflow: hidden;
     position: relative;
     border-radius: 10px;
+    border: 2px solid #fff;
 }
 
 .Project-link{
@@ -121,10 +122,18 @@ svg:hover{
         background-color: #ccc;
     }
 
+    .description{
+        font-weight: bolder;
+    }
+
     .project-images{
         opacity: 0.4;
         width: auto;
         height: 100%;
+    }
+
+    svg{
+        color: #000;
     }
 
     .projects-container{

@@ -12,6 +12,7 @@ header {
 
 header a img {
   margin-left: 4.5%;
+  width: 130px;
 }
 
 li {
@@ -187,27 +188,34 @@ footer {
     margin-right: 12px;
   }
   nav{
-    margin-top: -5em;
+    margin-top: -4em;
     margin-left: 8rem;
   }
-header a img {
-  margin-left: -4%;
-}
 
-.location p{
-  position: absolute;
-  margin-left: -40px;
-}
+  
+  header a img {
+    margin-left: -2%;
+    width: 100px;
+  }
+  
+  .location p{
+    position: absolute;
+    margin-left: -50px;
+  }
+  
+  li {
+    color: #fff;
+    font-weight: 500;
+    display: inline-block;
+    margin-left: 10%;
+  }
 
-
-li {
-  color: #fff;
-  font-weight: 500;
-  display: inline-block;
-  margin-left: 10%;
-}
+  li:hover {
+    margin-left: 10%;
+  }
   .first{
     height: 430px;
+    width: 100%;
   }
   .grid {
     display: grid;
@@ -220,7 +228,7 @@ li {
     border-radius: 10px;
     width: 150px;
     height: 190px;
-    margin-left: -35px;
+    margin-left: -40px;
     margin-top: -20px;
   }
 
@@ -239,7 +247,7 @@ li {
   }
 
   .first>div>h1 {
-    font-size: 1.6em;
+    font-size: 2em;
   }
 
   .first>div>p {
