@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    background: linear-gradient(180deg, rgb(182, 159, 97), rgb(128, 89, 24));
+    font-family: 'Montserrat', sans-serif;
+}
+
+.flex-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;   
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+.heading {
+    border: 3px solid #fff;
+    height: 222px;
+    width: 98%;
+    border-radius: 20px;
+}
+
+/* Image odin in Heading */
+.Odin {
+    width: 730px;
+    height: 220px;
+    margin-left: 32em;
+    border: 1px solid red;
+    margin-top: 60px;
+}
+
+.box {
+    perspective: 1000px;
+    height: 350px;
+    width: 287px;
+    border-radius: 10px;
+    margin: 12px;
+    overflow: hidden;
+}
+
+.box-img:hover img {
+    transform: rotateY(-90deg);
+    transition: all 0.5s ease-in-out 0s;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+}
+
+.box .content {
+    padding: 18px;
+    position: absolute;
+    transform: rotateY(90deg);
+    transition: all 0.5s ease-in-out 0s;
+    border-radius: 10px;
+    top: 0;
+    left: 0;
+    background-color: #C99541;
+    box-sizing: border-box;
+    height: 100%;
+    color: #000;
+    font-weight: bold;
+}
+
+.box:hover .box-img {
+    transform: rotateY(-90deg);
+}
+
+.box .box-img {
+    transform: rotateY(0);
+    transition: all 0.5s ease-in-out;
+}
+
+.box:hover .content {
+    transform: rotateY(0);
+    color: #000;
+    font-weight: bold;
+}
+
+.view {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    font-weight: 400;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.view:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    color: #ccc;
+    border-radius: 10px;
+}
+
+h3 {
+    color: #fff;
+    font-size: 1rem;
+}
+
+@media only screen and (max-width:600px) {
+h1 {
+    margin-left: 10px;
+    font-size: 1.3rem;
+}
+
+.Odin {
+    width: 100%;
+    height: 220px;
+    margin-left: 32em;
+    margin-top: auto;
+}
+
+.box {
+    perspective: 1000px;
+    height: 350px;
+    width: 187px;
+    border-radius: 10px;
+    margin: 12px;
+    overflow: hidden;
+}
+
+.flex-container {
+    display: grid;
+    grid-template-columns: auto auto;   
+}
+}
