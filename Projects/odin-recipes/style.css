@@ -23,7 +23,7 @@ html {
 h1 {
     margin-left: 10px;
     top: 5%;
-    line-height: 60px;
+    line-height: 50px;
     left: 2;
     position: absolute;
 }
@@ -34,6 +34,7 @@ h1 {
     width: 98%;
     border-radius: 10px;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 /* Image odin in Heading */
@@ -46,7 +47,7 @@ h1 {
 .box {
     perspective: 1000px;
     height: 350px;
-    width: 90%;
+    width: 93%;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -143,13 +144,17 @@ svg:hover{
     transition: 0.4s ease-in-out;
 }
 
+.push{
+    margin-top: 10px;
+}
+
 @media only screen and (max-width:600px) {
 h1 {
     margin-left: 12px;
-    text-align: center;
-    font-size: 1.4rem;
-    line-height: 40px;
-    top: 13%;
+    /* text-align: center; */
+    font-size: 1.3rem;
+    line-height: 30px;
+    top: 15%;
 }
 
 img {
@@ -165,6 +170,7 @@ img {
     margin:0 auto;
     width: 96%;
     background-color: #f5cb87;
+    overflow: hidden;
     border-radius: 10px;
 }
 
@@ -183,6 +189,7 @@ img {
     perspective: 1000px;
     height: auto;
     border-radius: 10px;
+    width: 95%;
     overflow-y: auto;
 }
 
