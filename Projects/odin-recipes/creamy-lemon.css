@@ -51,7 +51,7 @@ h3 {
 .description{
     font-weight: bolder;
     position: absolute;
-    top: 30%;
+    top: 34%;
     left: 17%;
 }
 
@@ -109,21 +109,21 @@ h2 {
     color: #fff;
     text-align: center;
     position: relative;
-    top: 120%;
+    top: 130%;
     left: 0;
 }
 
 .disclaimer{
     font-weight: bolder;
     position: absolute;
-    top: 52%;
+    top: 56%;
     left: 5%;
 }
 
 .description{
     font-weight: bolder;
     position: absolute;
-    top: 82%;
+    top: 94%;
     left: 5%;
 }
 
@@ -135,7 +135,7 @@ img {
     left: 0;
     border-radius: 30px;
     margin: 12px;
-    border: 3px solid brown;
+    border: 3px solid yellow;
     display: inline-block;
 }
 

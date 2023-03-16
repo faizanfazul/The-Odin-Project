@@ -109,21 +109,21 @@ h2 {
     color: #fff;
     text-align: center;
     position: relative;
-    top: 130%;
+    top: 135%;
     left: 0;
 }
 
 .disclaimer{
     font-weight: bolder;
     position: absolute;
-    top: 48%;
+    top: 55%;
     left: 5%;
 }
 
 .description{
     font-weight: bolder;
     position: absolute;
-    top: 75%;
+    top: 88%;
     left: 5%;
 }
 
