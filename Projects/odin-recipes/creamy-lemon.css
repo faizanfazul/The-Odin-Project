@@ -41,20 +41,6 @@ h3 {
     text-align: center;
 }
 
-.disclaimer{
-    font-weight: bolder;
-    position: absolute;
-    top: 15%;
-    left: 17%;
-}
-
-.description{
-    font-weight: bolder;
-    position: absolute;
-    top: 34%;
-    left: 17%;
-}
-
 img {
     width: 15%;
     position: relative;
@@ -113,20 +99,12 @@ h2 {
     left: 0;
 }
 
-.disclaimer{
-    font-weight: bolder;
-    position: absolute;
-    top: 56%;
-    left: 5%;
+.about{
+  position: relative;
+  top: 11px;
+  margin-left:12px;
 }
-
-.description{
-    font-weight: bolder;
-    position: absolute;
-    top: 94%;
-    left: 5%;
-}
-
+  
 img {
     width: 50%;
     position: relative;
