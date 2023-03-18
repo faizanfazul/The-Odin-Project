@@ -102,6 +102,7 @@ h2 {
     text-align: center;
     position: relative;
     top: -7%;
+    z-index: 999;
     margin-left: 20px;
     left: 0;
 }
