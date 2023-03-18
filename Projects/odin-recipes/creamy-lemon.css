@@ -30,9 +30,15 @@ h2 {
     color: #fff;
     text-align: center;
     position: relative;
-    top: -30%;
+    top: -20%;
     left: 0;
-    margin-left: 20px;
+}
+
+.about{
+  position: absolute;
+  font-weight: bolder;
+  top: 14%;
+  margin-left:17%;
 }
 
 h3 {
