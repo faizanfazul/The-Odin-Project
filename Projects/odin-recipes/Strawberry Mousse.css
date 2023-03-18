@@ -32,7 +32,6 @@ h2 {
     position: relative;
     top: -30%;
     left: 0;
-    margin-left: 20px;
 }
 
 h3 {
@@ -41,18 +40,11 @@ h3 {
     text-align: center;
 }
 
-.disclaimer{
-    font-weight: bolder;
-    position: absolute;
-    top: 15%;
-    left: 17%;
-}
-
-.description{
-    font-weight: bolder;
-    position: absolute;
-    top: 30%;
-    left: 17%;
+.about{
+  position: absolute;
+  font-weight: bolder;
+  top: 14%;
+  margin-left:17%;
 }
 
 img {
@@ -109,22 +101,15 @@ h2 {
     color: #fff;
     text-align: center;
     position: relative;
-    top: 90%;
+    top: 0px;
+    margin-left: 20px;
     left: 0;
 }
 
-.disclaimer{
-    font-weight: bolder;
-    position: absolute;
-    top: 55%;
-    left: 5%;
-}
-
-.description{
-    font-weight: bolder;
-    position: absolute;
-    top: 88%;
-    left: 5%;
+.about{
+  position: relative;
+  top: 11px;
+  margin-left:12px;
 }
 
 img {
